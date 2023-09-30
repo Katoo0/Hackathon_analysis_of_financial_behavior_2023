@@ -1,5 +1,5 @@
 # Hackathon_analysis_of_financial_behavior_2023
-Solution to a case from the non-state pension fund "future" of the EDA team
+Решение кейса от НПФ «Будущее» команды EDA
 
 Дополнительные данные, которые использовались для анализа и предсказаний находятся в папке data.
 Пути до файлов npo_clnts.csv, npo_cntrbtrs.csv, postIndx.xls и stats.xlsx необходимо заменить на соответствующие тем, куда сохранены эти файлы у вас.
