@@ -9,8 +9,10 @@
 Используемые библиотеки: 
 pandas,
 numpy,
+seaborn,
 matplotlib,
 datetime,
 plotly,
 sklearn,
+statsmodels,
 catboost.
